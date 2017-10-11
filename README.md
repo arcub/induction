@@ -20,7 +20,7 @@ The first talk will be given by the committee members:
  * GitHub Storage
  * Projects
 
- ###Projects List can be found at [students.aberrobotics.club/projects](http://students.aberrobotics.club/projects/)
+ ### Projects List can be found at [students.aberrobotics.club/projects](http://students.aberrobotics.club/projects/)
 
  ### The mandatory safety in undergraduate laboratories will be given by Steve (laboratory manager) [View/Download Slides](https://github.com/arcub/safety-in-undergraduate-laboratories.pdf)
 
