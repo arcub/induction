@@ -11,7 +11,7 @@ The first talk will be given by the committee members:
  * Charlotte Carter - Secretary
 
 
-### Welcome Presentation [View/Download Slides](https://github.com/arcub/induction/induction.pdf)
+### Welcome Presentation [View/Download Slides](https://github.com/arcub/induction/blob/master/induction.pdf)
  * Welcome
  * Membership through the Students Union
  * Experience
@@ -22,7 +22,7 @@ The first talk will be given by the committee members:
 
  ### Projects List can be found at [students.aberrobotics.club/projects](http://students.aberrobotics.club/projects/)
 
- ### The mandatory safety in undergraduate laboratories will be given by Steve (laboratory manager) [View/Download Slides](https://github.com/arcub/safety-in-undergraduate-laboratories.pdf)
+ ### The mandatory safety in undergraduate laboratories will be given by Steve (laboratory manager) [View/Download Slides](https://github.com/arcub/induction/blob/master/safety-in-undergraduate-laboratories.pdf)
 
 ## Authors
 
